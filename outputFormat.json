@@ -1,124 +1,84 @@
 {
-    "configSize" : 4,
-    "configs" :
-    [
+    "suggestions": [
         {
-            "luckyMatch" : 6,
-            "prize" : 1000,
-            "resultType" : "LuckyPair",
-            "leftToRight" : true
+            "couponNumber": "000",
+            "prize": 0.0
         },
         {
-            "luckyMatch" : 5,
-            "prize" : 250,
-            "resultType" : "LuckyPair",
-            "leftToRight" : true
+            "couponNumber": "001",
+            "prize": 0.0
         },
         {
-            "luckyMatch" : 4,
-            "prize" : 25,
-            "resultType" : "LuckyPair",
-            "leftToRight" : true
+            "couponNumber": "002",
+            "prize": 0.0
         },
         {
-            "luckyMatch" : 3,
-            "prize" : 2,
-            "resultType" : "LuckyPair",
-            "leftToRight" : true
-        }
-    ],
-    "couponGenerateLength" : 12,
-    "couponGenerateMaxValue" : 25,
-    "couponGenerateMinValue" : 1,
-    "isPaired" : true,
-    "couponSize" : 4094,
-    "numberOfResult" : 20,
-    "coupons" :
-    [
-        {
-            "couponNumber": "040611142023",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "003",
+            "prize": 0.0
         },
         {
-            "couponNumber": "010506071825",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "004",
+            "prize": 0.0
         },
         {
-            "couponNumber": "020308101417",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "007",
+            "prize": 0.0
         },
         {
-            "couponNumber": "020709131416",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "008",
+            "prize": 0.0
         },
         {
-            "couponNumber": "060809122225",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "009",
+            "prize": 0.0
         },
         {
-            "couponNumber": "070911131921",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "010",
+            "prize": 0.0
         },
         {
-            "couponNumber": "071011131922",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "011",
+            "prize": 0.0
         },
         {
-            "couponNumber": "091215192223",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "012",
+            "prize": 0.0
         },
         {
-            "couponNumber": "020512151921",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "013",
+            "prize": 0.0
         },
         {
-            "couponNumber": "030609181925",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "015",
+            "prize": 0.0
         },
         {
-            "couponNumber": "051314182125",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "017",
+            "prize": 0.0
         },
         {
-            "couponNumber": "030713161923",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "018",
+            "prize": 0.0
         },
         {
-            "couponNumber": "040609101525",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "020",
+            "prize": 0.0
         },
         {
-            "couponNumber": "030810111417",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "021",
+            "prize": 0.0
         },
         {
-            "couponNumber": "050810141724",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "022",
+            "prize": 0.0
         },
         {
-            "couponNumber": "010512132425",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "025",
+            "prize": 0.0
         },
         {
-            "couponNumber": "041216202325",
-            "type": "LuckyPair",
-            "quantity": 1
+            "couponNumber": "027",
+            "prize": 0.0
         }
     ]
 }
